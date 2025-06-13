@@ -1,0 +1,26 @@
+# data
+*data*
+
+# egg folders
+.eggs/
+eggs/
+*.egg
+*.egg-info/
+
+# bash scripts
+bash_scripts/*
+scratch/*
+
+# OS generated files #
+.DS_store
+._*
+
+# python compiled #
+*.pyc
+__pycache__/
+
+# pycharm files? #
+.idea
+
+# checkpoints
+*.ipynb_checkpoints*
