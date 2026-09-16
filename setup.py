@@ -12,7 +12,7 @@ setuptools.setup(
         'mne==0.20.7',
         'numpy==1.23.5',
         'pandas==1.3.5',
-        'scikit_learn==1.2.1',
+        'scikit_learn==1.5.0',
         'scipy==1.8.0',
         'seaborn==0.12.2',
         'statannot==0.2.3',
